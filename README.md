@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:123B66,100:06B6D4&height=210&section=header&text=Shahyan%20Abbas&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20Exploring%20AI%20%26%20Building%20Digital%20Products&descAlignY=58&descSize=15" width="100%" alt="Shahyan Abbas — Software Engineering and AI" />
+<img src="./assets/profile-header.svg" width="100%" alt="Shahyan Abbas — Software Engineering, AI and Data Science" />
 
-<a href="https://www.cloudexify.site/"><img src="https://img.shields.io/badge/CLOUDEXIFY-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="CloudExify website" /></a>
-<a href="https://www.linkedin.com/in/shahyan-abbas-83810340a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shahyanturi@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0891B2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email contact" /></a>
+<a href="https://www.cloudexify.site/"><img src="https://img.shields.io/badge/CLOUDEXIFY-3B2619?style=for-the-badge&logo=googlechrome&logoColor=F5E8D8" alt="CloudExify website" /></a>
+<a href="https://www.linkedin.com/in/shahyan-abbas-83810340a"><img src="https://img.shields.io/badge/LINKEDIN-765137?style=for-the-badge&logo=linkedin&logoColor=FFF8EF" alt="LinkedIn" /></a>
+<a href="mailto:shahyanturi@gmail.com"><img src="https://img.shields.io/badge/CONTACT-A77A55?style=for-the-badge&logo=minutemailer&logoColor=FFF8EF" alt="Email contact" /></a>
 
 </div>
 
@@ -114,20 +114,24 @@ I'm passionate about technology, problem-solving, and turning ideas into practic
 
 ## GitHub Activity
 
-These cards fetch GitHub data dynamically. Updates depend on GitHub availability and each card service's cache, so they may not refresh instantly. Public cards may not include private-repository activity.
+These live cards use your GitHub username. Third-party services cache results and can occasionally be unavailable; public cards may not include private-repository activity.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=shahyanabbas914&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="GitHub account statistics" />
-<img height="175" src="https://streak-stats.demolab.com?user=shahyanabbas914&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahyanabbas914&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1B130F&title_color=E7C6A3&text_color=F3E8DC&icon_color=C18B5D&border_color=6F4B32&rank_icon=github&cache_seconds=1800" alt="GitHub account statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahyanabbas914&layout=compact&hide_border=true&bg_color=1B130F&title_color=E7C6A3&text_color=F3E8DC&border_color=6F4B32&langs_count=8" alt="Most used programming languages" />
 
-<br/>
+<br/><br/>
 
-<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahyanabbas914&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity" />
+<img width="49%" src="https://streak-stats.demolab.com?user=shahyanabbas914&hide_border=true&background=1B130F&stroke=6F4B32&ring=C18B5D&fire=E7C6A3&currStreakLabel=E7C6A3&sideLabels=D7C2AD&currStreakNum=FFF8EF&sideNums=F3E8DC&dates=A88A70" alt="GitHub contribution streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahyanabbas914&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub profile trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahyanabbas914&bg_color=1B130F&color=E8D7C5&line=C18B5D&point=F5D6B3&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahyanabbas914&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub profile trophies" />
 
 </div>
 
@@ -147,8 +151,8 @@ If you're interested in software engineering, AI, data science, or collaborating
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shahyanabbas914&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="GitHub profile views" />
+<img src="https://komarev.com/ghpvc/?username=shahyanabbas914&style=flat-square&color=8B5E3C&label=PROFILE+VIEWS" alt="GitHub profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:123B66,100:0B1020&height=110&section=footer" width="100%" alt="Decorative profile footer" />
+<img src="./assets/profile-footer.svg" width="100%" alt="Decorative profile footer" />
 
 </div>
