@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#21150F"/>
+    <stop offset=".48" stop-color="#513522"/>
+    <stop offset="1" stop-color="#9A704F"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="82%" cy="20%" r="70%">
+    <stop offset="0" stop-color="#E4C29A" stop-opacity=".32"/>
+    <stop offset="1" stop-color="#E4C29A" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#F8EBDD" stroke-opacity=".075" stroke-width="1"/>
+  </pattern>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="12"/>
+  </filter>
+</defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="22" fill="url(#glow)"/>
+<rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<circle cx="1010" cy="110" r="130" fill="#D6B58F" opacity=".12" filter="url(#shadow)"/>
+<circle cx="1010" cy="110" r="88" fill="none" stroke="#F4E5D3" stroke-opacity=".28"/>
+<circle cx="1010" cy="110" r="64" fill="none" stroke="#F4E5D3" stroke-opacity=".18"/>
+<path d="M870 260 C940 205 1010 310 1090 230 S1190 210 1240 260" fill="none" stroke="#EAD5BD" stroke-opacity=".32" stroke-width="2"/>
+<path d="M850 282 C930 230 1010 330 1090 250 S1190 230 1240 280" fill="none" stroke="#EAD5BD" stroke-opacity=".18" stroke-width="2"/>
+<rect x="72" y="67" width="5" height="190" rx="3" fill="#E5C29A"/>
+<text x="105" y="145" fill="#FFF8EF" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" letter-spacing="1">SHAHYAN ABBAS</text>
+<text x="108" y="190" fill="#F0DDC8" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">SOFTWARE ENGINEERING  ·  AI &amp; DATA SCIENCE</text>
+<text x="108" y="238" fill="#E4C29A" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">LEARN  /  BUILD  /  EVOLVE</text>
+<text x="1110" y="306" text-anchor="end" fill="#F6EBDD" fill-opacity=".65" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">PAKISTAN</text>
+</svg>
